@@ -1,0 +1,4 @@
+Nguyen Van An|0901234567|Friend
+Tran Minh Khanh|0912345678|Family
+Le Van Cuong|0987654321|Classmate
+Pham Thi Dung|0934567890|Friend
